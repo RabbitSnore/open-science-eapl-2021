@@ -1,0 +1,108 @@
+---
+title: "Principles and Practices in Open Science, EAPL 2021"
+author: "Timothy J. Luke"
+date: "`r Sys.Date()`"
+output:
+  pdf_document:
+    toc: yes
+  html_document:
+    toc: yes
+    toc_float: yes
+---
+
+# Part I: Planning and Preregistration
+
+## Repositories and Platforms
+
+### General
+
+- Open Science Framework: https://osf.io/
+- AsPredicted: https://aspredicted.org/
+
+### Specialized
+
+- ClinicalTrials.gov: https://clinicaltrials.gov/
+- PROSPERO: https://www.crd.york.ac.uk/prospero/
+
+## Registration Guides and Templates
+
+### AsPredicted Example
+
+https://aspredicted.org/nfj4s.pdf
+
+### Open Science Framework
+
+#### Templates
+
+https://osf.io/zab38/wiki/home/
+
+#### Guides
+
+- Registration guides: https://help.osf.io/hc/en-us/categories/360001550953-Registrations
+- Creating a registration: https://help.osf.io/hc/en-us/articles/360019738834-Create-a-Preregistration
+
+# Part II: Archiving Materials and Data
+
+## FAIR Principles
+
+- https://www.go-fair.org/fair-principles/
+
+## Licenses
+
+- Creative Commons licenses: https://creativecommons.org/licenses/
+- GNU General Public License: https://www.gnu.org/licenses/licenses.html
+- GNU License Recommendations: https://www.gnu.org/licenses/license-recommendations.html
+- GNU License List and Commentary: https://www.gnu.org/licenses/license-list.html
+
+## Repositories, Platforms, and Organizations
+
+- Open Science Framework: https://osf.io/
+- figshare: https://figshare.com/
+- Git
+  - GitHub: https://github.com/
+  - GitLab: https://about.gitlab.com/
+- rOpenSci: https://ropensci.org/
+
+## Data Sharing
+
+Ellis, S. E., & Leek, J. T. (2018). How to Share Data for Collaboration. The American Statistician, 72(1), 53–57. https://doi.org/10.1080/00031305.2017.1375987
+
+Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2018). Practical Solutions for Sharing Data and Materials From Psychological Research. Advances in Methods and Practices in Psychological Science, 1(1), 121–130. https://doi.org/10.1177/2515245917746500
+
+## Code Style
+
+https://style.tidyverse.org/
+
+# Part III: Stowing Down and Clearing Up: Preprints and Research Compendia
+
+## Preprint Servers
+
+- PsyArXiv: https://psyarxiv.com/
+- OSF Preprints: https://osf.io/preprints/
+
+## Sherpa Romeo
+
+https://v2.sherpa.ac.uk/romeo/
+
+## Research Compendia
+
+Marwick, B., Boettiger, C., & Mullen, L. (2018). Packaging Data Analytical Work Reproducibly Using R (and Friends). The American Statistician, 72(1), 80–88. https://doi.org/10.1080/00031305.2017.1375986
+
+## Organization
+
+- OSF Guides
+  - File organization: https://help.osf.io/hc/en-us/articles/360019738994-Organizing-files
+  - File naming: https://help.osf.io/hc/en-us/articles/360019931113-File-naming
+- Data Carpentry: https://datacarpentry.org/
+  - https://github.com/datacarpentry/rr-organization1
+
+### Compendium Examples (Not Psychology, Unfortunately)
+
+- http://www.biostat.jhsph.edu/~rpeng/reproducible/
+- https://aem.asm.org/content/81/16/5486 & https://zenodo.org/record/17804#.X_dXNBZwGUk
+
+### An Example Compendium (in progress): The CLIMR Project
+
+- https://climr.org/
+- https://osf.io/ra3dp/
+- https://github.com/RabbitSnore/CLIMR
