@@ -3,11 +3,11 @@ title: "Principles and Practices in Open Science, EAPL 2021"
 author: "Timothy J. Luke"
 date: "`r Sys.Date()`"
 output:
-  pdf_document:
-    toc: yes
   html_document:
     toc: yes
     toc_float: yes
+  pdf_document:
+    toc: yes
 ---
 
 # Part I: Planning and Preregistration
@@ -40,6 +40,12 @@ https://osf.io/zab38/wiki/home/
 
 - Registration guides: https://help.osf.io/hc/en-us/categories/360001550953-Registrations
 - Creating a registration: https://help.osf.io/hc/en-us/articles/360019738834-Create-a-Preregistration
+
+### Additional templates
+
+Haven, T. L., Errington, T. M., Gleditsch, K. S., van Grootel, L., Jacobs, A. M., Kern, F. G., Piñeiro, R., Rosenblatt, F., & Mokkink, L. B. (2020). Preregistering Qualitative Research: A Delphi Study. International Journal of Qualitative Methods, 19, 160940692097641. https://doi.org/10.1177/1609406920976417
+
+Van den Akker, O., Weston, S. J., Campbell, L., Chopik, W. J., Damian, R. I., Davis-Kean, P., Hall, A. N., Kosie, J. E., Kruse, E. T., Olsen, J., Ritchie, S. J., Valentine, K. D., van ’t Veer, A. E., & Bakker, M. (2019). Preregistration of secondary data analysis: A template and tutorial [Preprint]. PsyArXiv. https://doi.org/10.31234/osf.io/hvfmr
 
 # Part II: Archiving Materials and Data
 
@@ -100,6 +106,11 @@ Marwick, B., Boettiger, C., & Mullen, L. (2018). Packaging Data Analytical Work 
 
 - http://www.biostat.jhsph.edu/~rpeng/reproducible/
 - https://aem.asm.org/content/81/16/5486 & https://zenodo.org/record/17804#.X_dXNBZwGUk
+
+### An Example Compendium: A Replication Experiment
+
+- OSF Project: https://osf.io/bkuwa/
+- Preprint: https://psyarxiv.com/qjw7g/
 
 ### An Example Compendium (in progress): The CLIMR Project
 
